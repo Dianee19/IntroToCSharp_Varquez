@@ -9,9 +9,7 @@ Weekly fuel budget
 5-day fuel expenses
 Total distance traveled
 Fuel efficiency rating
-Budget status.
-
-The system performs input validation and generates a formatted weekly audit report.
+Budget status. The system performs input validation and generates a formatted weekly audit report.
 
 # How to Use
 

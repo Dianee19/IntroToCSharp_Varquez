@@ -1,17 +1,3 @@
-﻿/*
- * ================================================================
- * Codac Logistics Delivery & Fuel Auditor
- * Prelim Activity 01
- * 
- * Description: A console-based tool for tracking daily fuel expenses
- *              and delivery performance of a single vehicle over a 
- *              5-day work week.
- * 
- * Author: Dianw Varquez
- * Date: February 16, 2026
- * ================================================================
- */
-
 using System;
 
 class CodacLogistics
@@ -147,4 +133,5 @@ class CodacLogistics
         Console.WriteLine("\nPress any key to exit...");
         Console.ReadKey();
     }
+
 }

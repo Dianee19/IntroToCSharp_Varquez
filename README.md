@@ -1,4 +1,3 @@
-# IntroToCSharp_Varquez
 Prelim Lab 01 - Codac Logistics Delivery Fuel Auditor.
 
 Name: Diane Varquez  
